@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://netlify.app/iiif/cat-2/evans-fields-family-a/tiles",
+  "@id": "https://geealbers.github.io/test-rc6-again/iiif/cat-2/evans-fields-family-a/tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
